@@ -1,5 +1,5 @@
 {
-    "name": "ssnukala/sprinkle-account",
+    "name": "userfrosting/sprinkle-account",
     "type": "userfrosting-sprinkle",
     "description": "Authentication and account management module for UserFrosting.",
     "keywords": [
